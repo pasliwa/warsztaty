@@ -1,1 +1,2 @@
-# Materiały na warsztaty (Liceum XXVII im. Czackiego / KN BIBS / DOKO)
+# Materiały na warsztaty (BioML) - wstęp do scikit-learn i modele regresji
+
